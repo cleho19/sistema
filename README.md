@@ -21,4 +21,8 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* ...        https://git.heroku.com/pruebapostgresql.git
+
+             https://git.heroku.com/pruebapostgresql.git
+              
+              https://git.heroku.com/pruebapostgresql.git
